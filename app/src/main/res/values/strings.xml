@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">WorkoutInMinutes</string>
+    <string name="image">start_Image</string>
+    <string name="tv_title">GET READY FOR</string>
+</resources>
